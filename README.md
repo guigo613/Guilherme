@@ -1,6 +1,6 @@
 # <p align="center">Guilherme França de Oliveira</p>
 
-<p align="center">Desenvolvedor Full Stack | Especialista em Rust</p>
+<p align="center">Desenvolvedor Full Stack | Rust Avançado</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-fran%C3%A7a-de-oliveira" target="_blank">
