@@ -3,6 +3,9 @@
 <p align="center">Desenvolvedor Full Stack | Rust Avançado</p>
 
 <p align="center">
+  <a href="https://ghome.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Apresentação-ghome.dev.br-blue?style=for-the-badge&logo=web" alt="Apresentação">
+  </a>
   <a href="https://www.linkedin.com/in/guilherme-fran%C3%A7a-de-oliveira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
